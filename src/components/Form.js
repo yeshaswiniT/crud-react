@@ -45,11 +45,6 @@ const handleChange = (event) => {
     }
 
     // Validate phone number (optional, assuming phone should have a length of 10)
-    if (!formData.phone) {
-      newErrors.phone = "Phone number is required";
-    } else if (!/^\d{10}$/.test(formData.phone)) {
-      newErrors.phone = "Phone number must be 10 digits";
-    }
 
     return newErrors;
   };
