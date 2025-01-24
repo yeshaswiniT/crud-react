@@ -2,6 +2,7 @@
   "name": "form-app",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://yeshaswinit.github.io/crud-react",
   "dependencies": {
     "@mdi/js": "^7.4.47",
     "@mdi/react": "^1.6.1",
@@ -16,7 +17,7 @@
     "react-scripts": "5.0.1"
   },
   "scripts": {
-    "homepage": "https://yeshaswinit.github.io/crud-react",
+    
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
