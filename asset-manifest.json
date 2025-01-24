@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.b509d6cf.css",
-    "main.js": "/static/js/main.618a5a08.js",
-    "static/js/151.e439dd34.chunk.js": "/static/js/151.e439dd34.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.b509d6cf.css.map": "/static/css/main.b509d6cf.css.map",
-    "main.618a5a08.js.map": "/static/js/main.618a5a08.js.map",
-    "151.e439dd34.chunk.js.map": "/static/js/151.e439dd34.chunk.js.map"
+    "main.css": "/crud-react/static/css/main.b509d6cf.css",
+    "main.js": "/crud-react/static/js/main.6a39f30f.js",
+    "static/js/151.e439dd34.chunk.js": "/crud-react/static/js/151.e439dd34.chunk.js",
+    "static/media/logo.svg": "/crud-react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/crud-react/index.html",
+    "main.b509d6cf.css.map": "/crud-react/static/css/main.b509d6cf.css.map",
+    "main.6a39f30f.js.map": "/crud-react/static/js/main.6a39f30f.js.map",
+    "151.e439dd34.chunk.js.map": "/crud-react/static/js/151.e439dd34.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b509d6cf.css",
-    "static/js/main.618a5a08.js"
+    "static/js/main.6a39f30f.js"
   ]
 }
